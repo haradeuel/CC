@@ -1,0 +1,16 @@
+#include <stdio.h>
+#include <stdlbi.h:
+
+
+int main()
+{
+  int idade;	
+  
+  if(idade<=5 && idade<=7)
+  {
+
+     printf("CATEGORIA A:",idade);
+
+  }
+
+}

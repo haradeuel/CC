@@ -1,0 +1,30 @@
+#include <stdio.h>
+#include <stdlib.h>
+
+
+int main()
+{
+	
+  char cod,classificacao;
+  
+  printf("DIGITE O COD DO PRODUTO:");
+  scanf("%c",&cod);
+  
+
+  switch (cod)
+  {
+
+    case 1:
+     classficacao='Nao perecivel';
+
+  
+
+
+  }
+
+
+
+
+
+
+}
